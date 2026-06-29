@@ -90,7 +90,7 @@ I am a **Computer Science Engineering Student** at Mar Baselios Christian Colleg
   - Directing foundational entrepreneurship strategy, development actions, and student venture frameworks.
 - **🛠️ Quality & Operation Sub Lead** | *HELIOS MBCCET IEDC* *(Sep 2025 – Mar 2026)*
   - Maintained structural operations and pipeline execution models for campus startup initiatives.
-- **🌍 Community Networks:** Tourism Club Lead • verified *Career Ambassador* for the Kerala Knowledge Economy Mission • *City Representative (Idukki)* for Bridgegap • Core Volunteer at *TinkerHub*.
+- **🌍 Community Networks:** Tourism Club Lead • verified *Career Ambassador* for the Kerala Knowledge Economy Mission • *City Representative (Idukki)* for Bridgegap.
 
 ---
 
