@@ -82,6 +82,8 @@ I am a **Computer Science Engineering Student** at Mar Baselios Christian Colleg
 
 - **💡 IIC Student Convenor & Lead** | *IIC MBCCET* *(Mar 2026 – Present)*
   - Managing cross-functional development operations, innovation cultures, and student initiatives.
+- **🐧 FOSS Club Execom Member** | *FOSS Club MBCCET* *(Present)*
+  - Contributing to open-source culture, community infrastructure, and promoting Linux/FOSS alternatives across campus.
 - **🎙️ MBC:80 LEAD** | *µLearn MBCCET* *(Oct 2025 – Present)*
   - Curated, organized, and hosted numerous technical talk sessions, professional interaction sprints, and knowledge sharing loops.
 - **🚀 EDC Lead** | *HELIOS MBCCET IEDC* *(Sep 2025 – Present)*
