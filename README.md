@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ 10-Second Executive Summary
+## ⚡Executive Summary
 * **Core Focus:** Full-Stack Development (React/Django), Database Systems, and AI-driven Agritech.
 * **Leadership:** Managing Lead for campus Innovation (IIC), Entrepreneurship (EDC), and Tech Communities (TinkerHub).
 * **Key Innovation:** Founder/Developer of *Elam Sahayi*, an AI-powered autonomous harvesting machine selected for YIP 8.0 and SIH.
