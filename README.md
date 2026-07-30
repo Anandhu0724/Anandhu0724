@@ -38,6 +38,6 @@
 
 * **Active Lead:** Appointed Institution Innovation Council (IIC) Lead , Entrepreneurship Development Cell (EDC) Lead & MBCCET Tourism Club.
 * **Community Organizer:** Volunteer for MuLearn, IEDC, etc.. ; successfully coordinated *DECENDA 2k26* (Inter-college Cybersecurity CTF).
-* **Editorial & Strategy:** College Magazine Editor & Rudhirasena University Coordinator.
+* **Editorial & Strategy:** College Magazine Editor.
 
 ---
