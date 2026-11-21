@@ -1,43 +1,55 @@
-# Anandhu Krishnan 👋
-**Computer Science & Engineering Student | Tech Lead & Developer**  
-*Building autonomous tech, scalable web apps, and driving campus innovation ecosystems.*
+<div align="center">
 
----
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ LIVING IDENTITY                                                 @Anandhu0724 ║
+║                                                                              ║
+║ HELLO, WORLD. I'M                                                            ║
+║                                                                              ║
+║    █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗ ██╗  ██╗██╗   ██╗              ║
+║   ██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗██║  ██║██║   ██║              ║
+║   ███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║███████║██║   ██║              ║
+║   ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║   ██║              ║
+║   ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝              ║
+║   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝               ║
+║   ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ ███╗   ██╗            ║
+║   ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗████╗  ██║            ║
+║   █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║██╔██╗ ██║            ║
+║   ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║            ║
+║   ██║  ██╗██║  ██║██║╚██████║██║  ██║██║ ╚████║██║  ██║██║ ╚████║            ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝            ║
+║                                                                              ║
+║ TypeScript / HTML / JavaScript • Python • Web, Data & Systems Builders       ║
+║ On the public internet — Idukki, Kerala, India                               ║
+║                                                                              ║
+║ REPOSITORIES: 28     STARS: 1     CONTRIBUTIONS: 218     FOLLOWERS: 2        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-## ⚡Executive Summary
-* **Core Focus:** Full-Stack Development (React/Django), Database Systems, and AI-driven Agritech.
-* **Leadership:** Managing Lead for campus Innovation (IIC), Entrepreneurship (EDC), and Tech Communities (TinkerHub).
-* **Key Innovation:** Founder/Developer of *Elam Sahayi*, an AI-powered autonomous harvesting machine selected for YIP 8.0 and SIH.
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ROLES & COORDINATION                                                         ║
+║ ──────────────────────────────────────────────────────────────────────────── ║
+║ • NSS Volunteer Secretary                                                    ║
+║ • PACE Unit Coordinator                                                      ║
+║ • IEDC NEST Idukki & Wayanad Coordinator                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
----
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ TECHNICAL STACK & WORKSPACES                                                 ║
+║ ──────────────────────────────────────────────────────────────────────────── ║
+║ Languages & Web   : TypeScript, JavaScript, React.js, HTML5, CSS3, Tailwind  ║
+║ Backend & Data    : Python, Django, scikit-learn, Streamlit, SQL / MongoDB   ║
+║ Hardware & Net    : Microcontrollers (STM32, ESP8266), Cisco Packet Tracer   ║
+║ OS & Environments : Linux (Garuda XFCE, Debian, Mint), ReviOS, WSL, Git      ║
+║ Visual & Design   : Canva, Figma, Framer                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-## 🚀 Connect Instantaneously
 
-📋 *Click below to view my work or initiate a direct conversation:*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ SELECTED WORK & INITIATIVES                                                  ║
+║ ──────────────────────────────────────────────────────────────────────────── ║
+║ • Web & Interactive Apps  : React, Python/Django, and deployed web builds    ║
+║ • Data & ML Systems       : Python & scikit-learn fake news classifier       ║
+║ • Embedded & Hardware     : Microcontroller & hardware report/project work   ║
+║ • Outreach & Campaigns    : NSS & community relief / initiative visuals      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anandhu0724)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandhu0724)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_frenziedsage/)
-[![WhatsApp Chat](https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919994420724?text=Hi%20Anandhu,%20I%20saw%20your%20GitHub%20profile!)
-
----
-
-## 🛠️ Technical Matrix
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend Frameworks** | React.js,html, C ,  Tailwind CSS |
-| **Backend & Desktop** | Python, Java Swing (NetBeans) |
-| **Databases & Cloud** | SQL, MySQL, PostgreSQL, MongoDB, Firebase |
-| **Environments & OS** | Windows 11 Optimization, Linux (Debian, Mint, Kali via WSL) , Operating System Distro Testing|
-| **Design & UI/UX** | Figma, Canva , Framer|
-
----
-
-## 👔 Leadership & Ecosystem Impact
-
-* **Active Lead:** Appointed Institution Innovation Council (IIC) Lead , Entrepreneurship Development Cell (EDC) Lead & MBCCET Tourism Club.
-* **Community Organizer:** Volunteer for MuLearn, IEDC, etc.. ; successfully coordinated *DECENDA 2k26* (Inter-college Cybersecurity CTF).
-* **Editorial & Strategy:** College Magazine Editor.
-
----
